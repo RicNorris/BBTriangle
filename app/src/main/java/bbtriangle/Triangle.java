@@ -1,5 +1,4 @@
-package triangle;
-
+package bbtriangle;
 public class Triangle {
 
     private int side1, side2, side3;
